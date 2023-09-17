@@ -6,11 +6,13 @@
 
 Resbaz is a research bazzar at the University of Sydney.
 
-<p>&nbsp</p>
+&nbsp
+<p></p>
 
 
 <H2> Click <a href="https://colab.research.google.com/drive/1F2yiEjv9hYq6AKZpblMjlBGc3BtJeJh3?usp=sharing"> Here </a> </H2> to access the participant Google Colab sheet to follow along.
-<p>&nbsp</p>
+<p></p>
+  &nbsp
 
 These files support an introductory demonstration of using Python in Cheminformatics in pharmacology or toxicology held at USYD on 26/9/2023.
 
