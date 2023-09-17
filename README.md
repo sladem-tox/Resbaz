@@ -1,13 +1,13 @@
-# Resbaz-slade
+# Resbaz
 
 
-<p></p>
-&nbsp
+<p>&nbsp</p>
+
 
 Resbaz is a research bazzar at the University of Sydney.
 
-<p>
-&nbsp
+<p>&nbsp</p>
+
 
 Click <a href="https://colab.research.google.com/drive/1F2yiEjv9hYq6AKZpblMjlBGc3BtJeJh3?usp=sharing"> Here </a> to access the participant Google Colab sheet to follow along.
 <p>&nbsp</p>
