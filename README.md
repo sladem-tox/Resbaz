@@ -5,7 +5,7 @@
 <p> <H1><a href="https://sladem-tox.github.io/Resbaz"> https://sladem-tox.github.io/Resbaz </a> </H1></p>
 
 
-Resbaz is a research bazzar at the University of Sydney.
+Resbaz is a research bazaar at the University of Sydney.
 
 
 
