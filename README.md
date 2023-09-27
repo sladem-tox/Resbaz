@@ -19,5 +19,7 @@ To see the finished document with the missing bits filled in click<H2> Click <a 
 
 Please feel free to contact me if you would like to discuss the content of the workshop. (I know the code is rough but it works!)
 
+![QRcode](adobe-express-qr-code.png)
+
 
 </body>
