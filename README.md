@@ -18,8 +18,8 @@ These files support an introductory demonstration of using Python in Cheminforma
 To see the finished document with the missing bits filled in click<H2> Click <a href="https://colab.research.google.com/drive/1Sronr10ihLZfjZxJ3UZVlaGzmBqXrVZy?usp=sharing"> Here </a> </H2>
 <p>Please feel free to contact me if you would like to discuss the content of the workshop. I know the code is rough but it works!</p>
 
+<img src="./Resbaz/adobe-express-qr-code.png" alt="QRcode">
 
-![QRcode](./Resbaz/adobe-express-qr-code.png)
 
 
 </body>
