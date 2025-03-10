@@ -1,11 +1,9 @@
-# Resbaz
+# Resbaz research bazaar, 2023, at the University of Sydney.
 
 <body>
 
 <p> <H1><a href="https://sladem-tox.github.io/Resbaz"> https://sladem-tox.github.io/Resbaz </a> </H1></p>
 
-
-Resbaz research bazaar, 2023, at the University of Sydney.
 
 
 
